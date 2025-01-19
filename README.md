@@ -1,1 +1,1 @@
-# projectsbypavi
+OD&F is a website developed by using only the concepts of HTML and CSS with the implementation of their in depth concepts like parallax effect, icons and marque, etc. This website only consists of frontend without any backend support like sql or database. 
